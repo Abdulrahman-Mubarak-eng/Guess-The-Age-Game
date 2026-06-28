@@ -39,7 +39,7 @@ def change_mode():
 
 def open_github_profile():
     """فتح رابط الملف الشخصي للمطور."""
-    webbrowser.open_new("https://abdulrahman-mubarak-eng.github.io/my-portfolio/")
+    webbrowser.open_new("https://abdulrahman-mubarak-eng.github.io/Portfolio/")
 
 
 def disable_buttons():
